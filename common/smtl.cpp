@@ -6,7 +6,7 @@
 #include <pthread.h>
 #include <sched.h>
 
-#define SMTL_MAX_THREADS 512
+#define SMTL_MAX_THREADS 1024
 
 enum smtl_status
 {
